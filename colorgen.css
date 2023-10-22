@@ -1,0 +1,25 @@
+div{
+    margin:auto;
+    margin-top: 200px;
+    padding:100px;
+    width:40%;
+    background-color: white;
+    border: 3px solid #121314;
+    
+}
+button:hover{
+    background-color:rgb(180, 180, 180);   
+    transform: scale(1.1)
+   }
+button{
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+}
+#prefix{
+    padding-left:200px ;
+    font-size: 30px;
+    text-decoration: underline;
+}
